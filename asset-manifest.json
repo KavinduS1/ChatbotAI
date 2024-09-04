@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chatbotai/static/css/main.3f2c5690.css",
-    "main.js": "/chatbotai/static/js/main.6f41efa7.js",
-    "static/media/send.wav": "/chatbotai/static/media/send.5e1ec6a8ff9af0ee6fb7.wav",
-    "static/media/recive.wav": "/chatbotai/static/media/recive.dc33d3d941bfa0e8ac62.wav",
-    "index.html": "/chatbotai/index.html",
-    "main.3f2c5690.css.map": "/chatbotai/static/css/main.3f2c5690.css.map",
-    "main.6f41efa7.js.map": "/chatbotai/static/js/main.6f41efa7.js.map"
+    "main.css": "/ChatbotAI/static/css/main.3f2c5690.css",
+    "main.js": "/ChatbotAI/static/js/main.1b149fb3.js",
+    "static/media/send.wav": "/ChatbotAI/static/media/send.5e1ec6a8ff9af0ee6fb7.wav",
+    "static/media/recive.wav": "/ChatbotAI/static/media/recive.dc33d3d941bfa0e8ac62.wav",
+    "index.html": "/ChatbotAI/index.html",
+    "main.3f2c5690.css.map": "/ChatbotAI/static/css/main.3f2c5690.css.map",
+    "main.1b149fb3.js.map": "/ChatbotAI/static/js/main.1b149fb3.js.map"
   },
   "entrypoints": [
     "static/css/main.3f2c5690.css",
-    "static/js/main.6f41efa7.js"
+    "static/js/main.1b149fb3.js"
   ]
 }
